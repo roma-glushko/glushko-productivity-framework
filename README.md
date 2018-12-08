@@ -4,6 +4,13 @@ Welcome to my productivity framework 🏄
 Here will be added links to applications and extensions that make myself work much more productive.
 Hopefully, it will be usefull for you, too 🖐
 
+## Terminal
+
+- Shell: https://ohmyz.sh/
+- Shell Theme: https://github.com/agnoster/agnoster-zsh-theme
+- Terminal: https://hyper.is/
+- Hyper Setup: https://github.com/wesbos/dotfiles/blob/master/.hyper.js
+
 ## Browser Extensions
 
 ### [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en)
